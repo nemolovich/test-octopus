@@ -1,5 +1,5 @@
 #!/bin/bash
 
-echo "As user I print 1"
+echo "As users we print 3"
 
 exit 2
